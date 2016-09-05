@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/yengomez/registro1/test_registro_D_isim_beh.exe" -prj "/home/yengomez/registro1/test_registro_D_beh.prj" "work.test_registro_D" 

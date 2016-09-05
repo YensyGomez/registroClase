@@ -1,0 +1,6 @@
+V3 3
+FL /home/yengomez/registro1/registro_D.vhd 2016/09/05.10:41:13 P.20131013
+EN work/registro_D 1473090109 FL /home/yengomez/registro1/registro_D.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/registro_D/arq_registro_D 1473090110 \
+      FL /home/yengomez/registro1/registro_D.vhd EN work/registro_D 1473090109

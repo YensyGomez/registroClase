@@ -1,0 +1,10 @@
+Command line:
+   test_registro_D_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  39554
+
+Mon Sep  5 10:55:32 2016
+
+
+ Elaboration Time: 0.07 sec
